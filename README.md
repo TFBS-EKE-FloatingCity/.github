@@ -1,5 +1,11 @@
 # Floating city!
 
+## ToDo
+
+- [ ] Merge all working develop branch to each main branch.
+- [ ] Link all md's to parent README.md
+- [ ] Link All README.md to this file
+
 ## Componetns
    
    - [RaspberryPi 4B (master)](https://github.com/TFBS-EKE-FloatingCity/Raspberry)
