@@ -14,6 +14,7 @@
    - 6x ultrasonic sensor
    - 6x Pumps (3 for out and 3 for in)
    - 6x LEDstrips
+   - Router for network
 
 ## Communication
 ![PP_Kommunikation.png](attachments/PP_Kommunikation-95eacf6a-23eb-46e4-ae82-31237b51c1f4.png)
